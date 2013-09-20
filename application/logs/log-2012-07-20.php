@@ -1,0 +1,14 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-07-20 20:56:40 --> xmlrpc_request
+ERROR - 2012-07-20 20:56:40 --> <?xml version='1.0' ?><methodCall><methodName>we.userLogin</methodName><params><param><value><string>admin@admin.com</string></value></param><param><value><string>19900711</string></value></param></params></methodCall>
+ERROR - 2012-07-20 20:57:09 --> xmlrpc_request
+ERROR - 2012-07-20 20:57:09 --> <?xml version='1.0' ?><methodCall><methodName>we.getNearbyBluetoothDatas</methodName><params><param><value><string>64e1b8d34f425d19e1ee2ea7236d3028</string></value></param><param><value><struct><member><name>3</name><value><struct><member><name>3</name><value><string>520208</string></value></member><member><name>2</name><value><string>-88</string></value></member><member><name>1</name><value><string>11</string></value></member><member><name>0</name><value><string>DFACA3B467F7</string></value></member></struct></value></member><member><name>2</name><value><struct><member><name>3</name><value><string>5a0204</string></value></member><member><name>2</name><value><string>-85</string></value></member><member><name>1</name><value><string>&#20851;&#28113;&#20961;</string></value></member><member><name>0</name><value><string>5868D272F3EA</string></value></member></struct></value></member><member><name>1</name><value><struct><member><name>3</name><value><string>500204</string></value></member><member><name>2</name><value><string>-73</string></value></member><member><name>1</name><value><string>TY_bluetooth</string></value></member><member><name>0</name><value><string>00A4D3F711FD</string></value></member></struct></value></member><member><name>0</name><value><struct><member><name>3</name><value><string>5a0204</string></value></member><member><name>2</name><value><string>-70</string></value></member><member><name>1</name><value><string>TY_bluetooth</string></value></member><member><name>0</name><value><string>5868BA3B1850</string></value></member></struct></value></member></struct></value></param></params></methodCall>
+ERROR - 2012-07-20 20:57:09 --> a:3:{s:13:"bluetooth_mac";s:12:"DFACA3B467F7";s:14:"bluetooth_name";s:2:"11";s:11:"create_time";i:1342789029;}
+ERROR - 2012-07-20 20:57:09 --> 
+ERROR - 2012-07-20 20:57:09 --> a:3:{s:13:"bluetooth_mac";s:12:"5868D272F3EA";s:14:"bluetooth_name";s:9:"关淑凡";s:11:"create_time";i:1342789029;}
+ERROR - 2012-07-20 20:57:09 --> 
+ERROR - 2012-07-20 20:57:09 --> a:3:{s:13:"bluetooth_mac";s:12:"00A4D3F711FD";s:14:"bluetooth_name";s:12:"TY_bluetooth";s:11:"create_time";i:1342789029;}
+ERROR - 2012-07-20 20:57:09 --> 
+ERROR - 2012-07-20 20:57:09 --> a:3:{s:13:"bluetooth_mac";s:12:"5868BA3B1850";s:14:"bluetooth_name";s:12:"TY_bluetooth";s:11:"create_time";i:1342789029;}
+ERROR - 2012-07-20 20:57:09 --> 

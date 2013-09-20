@@ -1,0 +1,17 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-07-19 13:01:48 --> xmlrpc_request
+ERROR - 2012-07-19 13:01:48 --> <?xml version='1.0' ?><methodCall><methodName>we.userLogin</methodName><params><param><value><string>admin@admin.com</string></value></param><param><value><string>19900711</string></value></param></params></methodCall>
+ERROR - 2012-07-19 13:02:10 --> xmlrpc_request
+ERROR - 2012-07-19 13:02:10 --> <?xml version='1.0' ?><methodCall><methodName>we.getNearbyBluetoothDatas</methodName><params><param><value><string>64e1b8d34f425d19e1ee2ea7236d3028</string></value></param><param><value><struct><member><name>3</name><value><struct><member><name>3</name><value><string>3a0104</string></value></member><member><name>2</name><value><string>-60</string></value></member><member><name>1</name><value><string>&#8220;Liu&#8221;&#30340;&#8220;iMac&#8221;</string></value></member><member><name>0</name><value><string>1040F3E42597</string></value></member></struct></value></member><member><name>2</name><value><struct><member><name>3</name><value><string>5a0204</string></value></member><member><name>2</name><value><string>-66</string></value></member><member><name>1</name><value><string>null</string></value></member><member><name>0</name><value><string>001DE9355FF4</string></value></member></struct></value></member><member><name>1</name><value><struct><member><name>3</name><value><string>500204</string></value></member><member><name>2</name><value><string>-56</string></value></member><member><name>1</name><value><string>NG</string></value></member><member><name>0</name><value><string>006057A42451</string></value></member></struct></value></member><member><name>0</name><value><struct><member><name>3</name><value><string>3a010c</string></value></member><member><name>2</name><value><string>-72</string></value></member><member><name>1</name><value><string>Wang&#8217;s MacBook</string></value></member><member><name>0</name><value><string>00250052A792</string></value></member></struct></value></member><member><name>4</name><value><struct><member><name>3</name><value><string>500204</string></value></member><member><name>2</name><value><string>-56</string></value></member><member><name>1</name><value><string>NG</string></value></member><member><name>0</name><value><string>006057A42451</string></value></member></struct></value></member></struct></value></param></params></methodCall>
+ERROR - 2012-07-19 13:02:10 --> a:3:{s:13:"bluetooth_mac";s:12:"1040F3E42597";s:14:"bluetooth_name";s:22:"“Liu”的“iMac”";s:11:"create_time";i:1342674130;}
+ERROR - 2012-07-19 13:02:10 --> 
+ERROR - 2012-07-19 13:02:10 --> a:3:{s:13:"bluetooth_mac";s:12:"001DE9355FF4";s:14:"bluetooth_name";s:4:"null";s:11:"create_time";i:1342674130;}
+ERROR - 2012-07-19 13:02:10 --> 
+ERROR - 2012-07-19 13:02:10 --> a:3:{s:13:"bluetooth_mac";s:12:"006057A42451";s:14:"bluetooth_name";s:2:"NG";s:11:"create_time";i:1342674130;}
+ERROR - 2012-07-19 13:02:10 --> 
+ERROR - 2012-07-19 13:02:10 --> a:3:{s:13:"bluetooth_mac";s:12:"00250052A792";s:14:"bluetooth_name";s:16:"Wang’s MacBook";s:11:"create_time";i:1342674130;}
+ERROR - 2012-07-19 13:02:10 --> 210
+ERROR - 2012-07-19 13:02:10 --> a:3:{s:13:"bluetooth_mac";s:12:"006057A42451";s:14:"bluetooth_name";s:2:"NG";s:11:"create_time";i:1342674130;}
+ERROR - 2012-07-19 13:02:10 --> 213
+ERROR - 2012-07-19 20:50:42 --> 404 Page Not Found --> wp-config.php
