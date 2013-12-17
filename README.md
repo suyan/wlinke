@@ -3,7 +3,7 @@ wlinke
 
 ## Introduction
 
-This is my first PHP project of social website in 2010. I use Codeigniter as PHP framework and MySQL as a database.
+This is my first PHP project of social website in 2010. I use Codeigniter as PHP framework and MySQL as a database. There are also Android and IOS applications developed for this website by others in my group.
 
 ## Requirement
 
