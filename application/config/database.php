@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'bearcat001.gotoftp3.com';
-$db['default']['username'] = 'bearcat001';
-$db['default']['password'] = '19900711';
-$db['default']['database'] = 'bearcat001';
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = 'username';
+$db['default']['password'] = 'password';
+$db['default']['database'] = 'database';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = 'we_';
 $db['default']['pconnect'] = TRUE;
